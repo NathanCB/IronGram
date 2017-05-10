@@ -1,3 +1,7 @@
-# IronGram
-
-Turn the IronGram project we made in class into a SnapChat-like service by making it delete the photos briefly after they are first viewed.
+# IronGram 
+You've seen it before, so here's my version of Snapchat.
+### Tech Feature
+- upload image, 
+- set it's time to expire, 
+- and poof! It disappears.
+- Javascript/jQueary for AJAX single page goodness
